@@ -1,2 +1,2 @@
-alert('Web Ini digunakan untuk personal brand')
-10/5
+alert("Web Ini digunakan untuk pelatihan HTML , CSS, dan JavaScript");
+confirm("Apakah mau melanjutkan ?")
